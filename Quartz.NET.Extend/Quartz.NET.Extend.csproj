@@ -7,6 +7,11 @@
     <Title>Quartz.NET.Extend</Title>
     <PackageIcon>icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/engmustafak26/Quartz.NET.Extend</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/engmustafak26/Quartz.NET.Extend</PackageProjectUrl>
+    <Copyright>Mustafa Kamal @2025</Copyright>
+    <PackageId>$(AssemblyName)d</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
