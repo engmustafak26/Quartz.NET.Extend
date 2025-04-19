@@ -77,7 +77,7 @@ public async Task<IActionResult> RegisterNewUser()
     return Ok(new { Message = "User registered successfully" });
 }
 ```
-![Quartz.NET.Extend Workflow Diagram](https://i.imgur.com/example-hdl.png)  
+![Quartz.NET.Extend Workflow Diagram](https://raw.githubusercontent.com/engmustafak26/Quartz.NET.Extend/refs/heads/master/HLD.png)  
 *Figure 1: Inline Job Scheduling Architecture*
 
 
